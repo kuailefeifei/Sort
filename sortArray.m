@@ -16,6 +16,8 @@ function output = sortArray(input,sort_function)
 %                      used sort method. Current sort_function can only be
 %                      'quick_sort', 'bubble_sort' or 'merge_sort'. Default
 %                      sort_function is 'bubble_sort'.
+% OUTPUT
+% output               1D array or matrix after sort
 %--------------------------------------------------------------------------
 % Author               Kai HU
 % Last Edited          30.12.2019
